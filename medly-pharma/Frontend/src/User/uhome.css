@@ -1,0 +1,32 @@
+#uhome{
+    height: 750px;
+    background-image: url("C:\Users\madhu\OneDrive\Desktop\medly-pharma\Backend\uploads\depositphotos_524258436-stock-photo-vitamins-herbal-supplements-jars-green.jpg");
+    background-repeat: repeat-x;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    padding-top: 200px;  
+}
+
+#hh{
+    margin-left: 480px;    
+    margin-right: 480px;
+    background-color: #42847a54;  
+}
+
+#bt{
+    height: 60px;
+    width: 170px;
+    background-color: rgb(59, 160, 160);
+    border: none;
+    color: black;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+#bt:hover{
+    cursor: pointer;
+    opacity: 0.8;
+}
+#op{
+    box-sizing: border-box;
+}
